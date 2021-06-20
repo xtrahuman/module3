@@ -81,7 +81,8 @@ body{
 @media (min-width:768px) and (max-width:991){
 
   .row{
-    margin:auto;
+      width:90%;
+      margin:auto;
      }
 
 
@@ -89,7 +90,8 @@ body{
 
 @media (max-width:767px){
     .row{
-       margin:auto;
+        width:90%;
+       margin:auto
      }
 
 
