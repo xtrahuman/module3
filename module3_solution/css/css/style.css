@@ -45,6 +45,10 @@ body{
     background: #e7e7e7;
  
 }
+.main-head h2{
+    margin-top:0;
+    margin-bottom:20px;
+}
 .main1{
     background-color:#FAFFD8;
     width:100%;
